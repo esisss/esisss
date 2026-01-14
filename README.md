@@ -30,7 +30,7 @@ A complete food & inventory management application.
 **Testing:** Jest, React Testing Library, Vitest  
 **Tools:** Git, GitHub Actions, CI/CD
 
-### 🌱 Currently
+### Currently
 - Improving fullstack architecture & backend patterns
 - Building and refining personal projects
 - Open to Fullstack and Frontend opportunities (remote-friendly)
