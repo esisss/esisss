@@ -1,73 +1,38 @@
-# React + TypeScript + Vite
+## Hi, I’m Jesús 👋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I’m a **Fullstack Developer** with 4+ years of experience building modern web applications using **React, Next.js, TypeScript, and Node.js**.
 
-Currently, two official plugins are available:
+I focus on delivering **end-to-end features**, combining solid frontend architecture with practical backend logic, databases, and deployment. I care about clean code, performance, and building products that actually ship.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🧠 What I do
+- Build scalable and responsive UIs with **React & Next.js**
+- Develop backend logic and APIs using **Node.js**
+- Design and work with relational databases (**PostgreSQL**)
+- Deliver fullstack applications from idea → MVP → production
+- Write maintainable, testable code and collaborate through PRs
 
-## React Compiler
+### 🚀 Featured Project
+**Meal Tracker – Fullstack Web App**  
+A complete food & inventory management application.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Fullstack architecture with **Next.js + Node.js**
+- Backend logic for meal planning, inventory, and consumption tracking
+- Database modeling, validations, and transactional updates
+- Deployed MVP with real-world business constraints
 
-## Expanding the ESLint configuration
+🔗 Demo: https://mealtrack-app.vercel.app  
+🔗 Code: https://github.com/esisss/mealtrack-app
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+### 🛠 Tech Stack
+**Frontend:** React, Next.js, TypeScript, JavaScript, TailwindCSS  
+**Backend:** Node.js, APIs, Serverless  
+**Database:** PostgreSQL  
+**Testing:** Jest, React Testing Library, Vitest  
+**Tools:** Git, GitHub Actions, CI/CD
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+### 🌱 Currently
+- Improving fullstack architecture & backend patterns
+- Building and refining personal projects
+- Open to Fullstack opportunities (remote-friendly)
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+📫 Reach me at: jesisp17@gmail.com
