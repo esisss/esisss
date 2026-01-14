@@ -1,4 +1,4 @@
-## Hi, I’m Jesús 👋
+## Hey, I’m Jesús 👋
 
 I’m a **Fullstack Developer** with 4+ years of experience building modern web applications using **React, Next.js, TypeScript, and Node.js**.
 
@@ -33,6 +33,6 @@ A complete food & inventory management application.
 ### 🌱 Currently
 - Improving fullstack architecture & backend patterns
 - Building and refining personal projects
-- Open to Fullstack opportunities (remote-friendly)
+- Open to Fullstack and Frontend opportunities (remote-friendly)
 
 📫 Reach me at: jesisp17@gmail.com
