@@ -15,7 +15,7 @@ I focus on delivering **end-to-end features**, combining solid frontend architec
 **Meal Tracker – Fullstack Web App**  
 A complete food & inventory management application.
 
-- Fullstack architecture with **Next.js + Node.js**
+- Fullstack architecture with **Next.js**
 - Backend logic for meal planning, inventory, and consumption tracking
 - Database modeling, validations, and transactional updates
 - Deployed MVP with real-world business constraints
